@@ -8,5 +8,5 @@ app.get('/',(req,res)=>{
 });
 
 app.listen(PORt,()=>{
-    console.log(`Server is running on port ${PORt}`);
+    console.log(`This is a test server. Server is running on port ${PORt}`);
 });
